@@ -21,6 +21,10 @@ The materials are licensed as following conditions:
 
 - The manual of "How to Develop a TTX" can be redistributed.
 - The exercise handbook used in HITCON Pacific 2018 **cannot** be redistributed.
+- Translated texts, newly created exercises based on existing ones, or newly created
+  exercises based on the manual of "How to Develop a TTX", are implicitly and explicitly
+  irrelevant to NÚKIB.  The texts and the exercises should be licensed as one of the
+  Creative Common licenses.
 - The translators renounce their rights of the translation and make it, within the
   limitation of the original copyright, public domain.
 
@@ -31,8 +35,9 @@ of translation, please contact with Martina Ulmanová at [www.nukib.cz](www.nuki
 版權條款授權，但允許台灣的資安社群翻譯、分享、或創作新的 TTX。本 repo 的文件中，
 版權如下:
 
-- "How to Develop a TTX" 手冊可以被複製、散佈
-- HITCON Pacific 2018 所使用的練習手冊不可以被複製、散佈
+- "How to Develop a TTX" 手冊可以被複製、散佈。
+- HITCON Pacific 2018 所使用的練習手冊 (英文) 不可以被複製、散佈。
+- 中譯、二創、新創的 TTX 與 NÚKIB 無關，但必須以任何一種 CC 版權宣告。
 - 中譯者在原有版權的限制條件下，放棄對譯文的所有權利，譯文本身是 public domain 。
 
 如果你想在你的國家玩 TTX 或是翻譯成別的語言的話，請聯絡 [www.nukib.cz](www.nukib.cz) 的
